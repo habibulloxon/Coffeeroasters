@@ -341,7 +341,6 @@ footer{
     background: #2C343E;
     margin: 0 auto;
     margin-top: 200px;
-    border: 1px solid transparent;
     display: flex;
     flex-direction: row;
 }
